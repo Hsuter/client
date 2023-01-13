@@ -3,7 +3,7 @@ import React from "react";
 const Testings = () => {
   return (
     <div>
-      Testings
+      Updated testing
       <div>Feature branch changes</div>
     </div>
   );
