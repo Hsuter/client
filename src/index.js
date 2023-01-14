@@ -6,6 +6,6 @@ import thunk from "redux-thunk";
 import reducer from "./reducers";
 import App from "./App";
 
-const store = createStore(reducers, compose(applyMiddleware(thunk)));
+const store = createStore(reducer, compose(applyMiddleware(thunk)));
 
 ReactDOM.render(<App />, document.getElementById("root"));

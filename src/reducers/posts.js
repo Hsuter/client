@@ -1,10 +1,1 @@
-const reducer = (state,action) => {
-    switch (key) {
-        case value:
-            
-            break;
-    
-        default:
-            break;
-    }
-}
+const reducer = (state, action) => {};
